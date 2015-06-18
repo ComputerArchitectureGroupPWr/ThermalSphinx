@@ -360,6 +360,18 @@ Fast start
 18. If programing FPGA goes well, create ``program.xml`` file with simulation
     program. An example of such file is presented below.
 
-19. When 
+19. When FPGA is programmed and simulation program is ready you can start the
+    emulation process, type:
+
+.. code-block:: bash
+
+    $ simulio -p /dev/ttyUSB0 -c program.xml
+
+20. Simulation will stop after time declared in program.xml or after ``Ctrl+c``.
+
+21. In ``data.csv`` you should find results.
+
+.. note:: The results are in fact oscillations of seven stage ring oscillator 
+          in one period of 3 kHz clock.
 
 
