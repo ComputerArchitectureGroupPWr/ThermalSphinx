@@ -1,0 +1,30 @@
+Publications
+============
+
+Here is a list of publications where FPGA Thermal Toolset has played an
+ntegral part of the tool development and experiments performed.
+
++-----------+------------------------------------------------------------------------+----------+-----------+---------------+
+|           |                                                                        | Download |  Download |    Download   |
+|   Venue   |                                  Paper                                 |   Paper  | Ciatation | Presentation/ |
+|           |                                                                        |          |           |     Poster    |
++-----------+------------------------------------------------------------------------+----------+-----------+---------------+
+|           |  | P. Weber, M. Zagrabski, B. Wojciechowski, Krzysztof S. Berezowski,  |          |           |               |
+|           |  |  M. Nikodem, and,K. Kepa Toolset for Measuring Thermal Behavior of  |          |           |               |
+| Therm '13 |  |     FPGA Devices, Proceedings of 19th International Workshop on     |          |           |               |
+|           |  |  Thermal Investigations of ICs and Systems (THERMINIC 2013), ISBN:  |          |           |               |
+|           |  |                 978-1-4799-2271-0, 2013, pp. 48-53                  |          |           |               |
++-----------+------------------------------------------------------------------------+----------+-----------+---------------+
+|           |       P. Weber, M. Zagrabski, P. Musz, K. Kępa, M. Nikodem, and        |          |           |               |
+|           |        B. Wojciechowski, Configurable heat generators for FPGAs,       |          |           |               |
+| Therm '14 |       Proceedings of THERMINIC 2014 - 20th International Workshop      |          |           |               |
+|           | on,Thermal Investigations of ICs and Systems, ISBN: 978-1-4799-5415-5, |          |           |               |
+|           |                               2014, pp. 4                              |          |           |               |
++-----------+------------------------------------------------------------------------+----------+-----------+---------------+
+|           |       B. Wojciechowski, M. Nikodem, P. Weber, M. Zagrabski, and        |          |           |               |
+|           |        K. Kępa, Hardware microprocessor thermal emulation using        |          |           |               |
+|           |      synthetic heat sources and temperature sensors in FPGA, 20th      |          |           |               |
+| Therm '14 |       International Workshop on Thermal Investigations of ICs and      |          |           |               |
+|           |                                Systems,                                |          |           |               |
+|           |                      ISBN: 978-1-4799-5415-5, 2014                     |          |           |               |
++-----------+------------------------------------------------------------------------+----------+-----------+---------------+

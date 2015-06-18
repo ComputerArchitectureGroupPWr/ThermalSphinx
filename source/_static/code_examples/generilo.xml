@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<board device="Virtex5" mode="emulation" version="0.1">
+	<input name="SimCore.ncd"/>
+	<output name="SimCore_new.ncd"/>
+	<heater FMColor="#ff0000" name="heater1" type="RO1">
+		<clb col="6" row="1"/>
+		<clb col="6" row="2"/>
+	</heater>
+	<heater FMColor="#ff0000" name="heater2" type="SRL16">
+		<clb col="8" row="1"/>
+		<clb col="8" row="2"/>
+	</heater>
+	<thermometer col="23" name="term1" row="27" type="RO7"/>
+</board>

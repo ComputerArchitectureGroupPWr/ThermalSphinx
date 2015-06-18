@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<program version="0.1">
+    <output name="data.txt"/>
+    <heater name="heater1">
+        <conf power="40%" time="500s"/>
+        <conf power="80%" time="1500s"/>
+        <conf power="20%" time="30min"/>
+    </heater>
+    <heater name="heater2">
+        <conf power="33%" time="22min"/>
+        <conf power="10%" time="5h"/>
+    </heater>
+</program>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<device version="0.2" name="xc5vlx110tff1136">
+  <size cols="164" rows="177" />
+  <clbsize width="0.00025" height="0.0002" />
+  <obstacle x="0" y="0" width="4" height="177" />
+  <obstacle x="20" y="0" width="4" height="177" />
+  ...
+  <unit x="127" y="107" width="10" height="1" />
+  <unit x="127" y="109" width="10" height="1" />
+  ...
+</device>
