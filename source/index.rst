@@ -46,8 +46,8 @@ Primary investigator: Bartosz Wojciechowski, Contact person: Bartosz Wojciechows
    intro
    toolset
    getting_started
-   support
-   related_projects
+   control_files
+   publications
 
 Indices and tables
 ==================

@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
-<program version="0.1">
+<program version="0.2">
+    <settings duration="1min"/>
     <output name="data.txt"/>
     <heater name="heater1">
         <conf power="40%" time="500s"/>

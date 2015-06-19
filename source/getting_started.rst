@@ -360,6 +360,11 @@ Fast start
 18. If programing FPGA goes well, create ``program.xml`` file with simulation
     program. An example of such file is presented below.
 
+.. literalinclude:: _static/code_examples/simulio.xml
+   :language: xml
+   :caption: **Listing: Example of XML emulation program file**
+   :name: simulio.xml
+
 19. When FPGA is programmed and simulation program is ready you can start the
     emulation process, type:
 
@@ -374,4 +379,11 @@ Fast start
 .. note:: The results are in fact oscillations of seven stage ring oscillator 
           in one period of 3 kHz clock.
 
+*******
+Summary
+*******
 
+This way user have ready example project. For more sophisticated usage we
+attach also documentation to all control files in next section. In next
+revisions we will add also full code documentation to JGenerilo for use
+to extend it behavior and functionality.

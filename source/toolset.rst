@@ -284,7 +284,7 @@ like seconds, minutes or hours.
 .. literalinclude:: _static/code_examples/simulio.xml
    :language: xml
    :caption: **Listing: Example of XML emulation program file**
-   :name: generilo.xml
+   :name: simulio.xml
 
 Simulio takes this instructions as their argument in a emulation program
 control XML file. Additionally tool takes second argument which is a path to
